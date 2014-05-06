@@ -1,13 +1,15 @@
 
-http://username.github.io/about.html
-http://username.github.io/archive.html
-http://username.github.io/atom.xml
-http://username.github.io/categories.html
-http://username.github.io/index.html
-http://username.github.io/pages.html
-http://username.github.io/rss.xml
-http://username.github.io/sitemap.txt
-http://username.github.io/tags.html
+/about.html
+/archive.html
+/atom.xml
+/categories.html
+/index.html
+/index11111.html
+/pages.html
+/rss.xml
+/sitemap.txt
+/tags.html
 
-http://username.github.io/2014/05/06/hkksd
-http://username.github.io/lessons/2011/12/29/jekyll-introduction
+/2014/05/06/title1.html
+/simplygrey/2013/12/23/welcome-to-simply-grey.html
+/ruby/2013/12/23/ruby-json.html
